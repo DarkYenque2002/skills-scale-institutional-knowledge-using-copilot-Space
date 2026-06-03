@@ -79,3 +79,10 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## UX Designer
+
+### Responsibilities
+Creates wireframes, prototypes and usability standards.
+
+### Interaction
+Works with Product Managers and Developers to improve user experience.
